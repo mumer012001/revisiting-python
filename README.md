@@ -2,6 +2,20 @@
 
 In this repository, I tried to write down what I know about Python programming language.
 
+## Table Of Contents
+
+  - [What is Python?](#what-is-python)
+  - [Installing Python](#installing-python)
+  - [Package Managers](#package-managers)
+  - [Managing Packages](#managing-packages)
+    - [Installing Packages](#installing-packages)
+    - [Updating Packages](#updating-packages)
+    - [Removing Packages](#removing-packages)
+  - [Writing And Executing Code](#writing-and-executing-code)
+    - [Using IDEs (Visual Studio Code, PyCharm, etc.)](#using-ides-visual-studio-code-pycharm-etc)
+    - [Using Text Editors (Notepad, Notepad++, Sublime Text, etc.)](#using-text-editors-notepad-notepad-sublime-text-etc)
+    - [Using Python IDLE (Python Shell)](#using-python-idle-python-shell)
+
 ## What is Python?
 
 Python is a high-level, versatile, and easy-to-read programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python has grown to become one of the most popular programming languages worldwide. Its design philosophy emphasizes code readability and a clean syntax, which allows programmers to express concepts in fewer lines of code compared to other languages.
@@ -101,7 +115,7 @@ conda remove numpy
 
 ## Writing And Executing Code
 
-Python, being a versatile programming language, allows you to write and execute code using various development environments. Whether you prefer the feature-rich experience of IDEs like Visual Studio Code and PyCharm or the simplicity of text editors like Notepad, Notepad++, or Sublime Text, Python ensures a smooth and enjoyable coding experience as it can be comfortably written and executed in any of these environments. 
+Python, being a versatile programming language, allows you to write and execute code using various development environments. Whether you prefer the feature-rich experience of IDEs like Visual Studio Code and PyCharm or the simplicity of text editors like Notepad, Notepad++, or Sublime Text, Python ensures a smooth and enjoyable coding experience as it can be comfortably written and executed in any of these environments.
 
 Additionally, for quick code testing, Python IDLE provides an interactive shell that allows you to experiment with Python code directly. Choose the development environment that suits your needs and start coding in Python!
 
